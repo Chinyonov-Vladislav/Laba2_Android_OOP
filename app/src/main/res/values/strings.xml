@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">laba2</string>
+    <string name="time">00:00</string>
+    <string name="hint_under_time">Мы отправили код на ваш телефон, введите его в поле ниже</string>
+    <string name="send_new_code">Отправить новый код</string>
+    <string name="back">Вернуться</string>
+    <string name="hint_search_news">Поиск по новостям</string>
+    <string name="hint_search_collection">Поиск по подборкам</string>
+    <string name="main_nav_bottom_menu">Главная</string>
+    <string name="news_nav_bottom_menu">Новости</string>
+    <string name="collections_nav_bottom_menu">Подборки</string>
+    <string name="favourite_nav_bottom_menu">Избранное</string>
+    <string name="profile_nav_bottom_menu">Профиль</string>
+    <string name="create_new_collection">Создать новую подборку</string>
+    <string name="text_item_collection_1">Для Саши</string>
+    <string name="text_item_collection_2">Для Андрея</string>
+    <string name="text_item_collection_3">Жилые комплексы</string>
+    <string name="main_string">Лабораторная работа №2\nВыполнил: Чинёнов Владислав Евгеньевич\nСтудент 4 курса ИВТ-1 ФТФ ДонНУ</string>
+    <string name="form1">Форма №1: Подтверждение Ошибка</string>
+    <string name="form2">Форма №2: Новости</string>
+    <string name="form3">Форма №3: Подборки </string>
+</resources>

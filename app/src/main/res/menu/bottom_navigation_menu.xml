@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home_icon"
+        android:title="@string/main_nav_bottom_menu" />
+    <item
+        android:id="@+id/navigation_news"
+        android:icon="@drawable/news_icon"
+        android:title="@string/news_nav_bottom_menu" />
+    <item
+        android:id="@+id/navigation_collections"
+        android:icon="@drawable/collections_icon"
+        android:title="@string/collections_nav_bottom_menu" />
+
+    <item
+        android:id="@+id/navigation_favourite"
+        android:icon="@drawable/favourite_icon"
+        android:title="@string/favourite_nav_bottom_menu" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/profile_icon"
+        android:title="@string/profile_nav_bottom_menu" />
+</menu>
